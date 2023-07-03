@@ -1,0 +1,14 @@
+.nav-container{
+    background-color: whitesmoke;
+    padding: 1px;
+}
+#logo{
+    font-family: 'Dancing Script', cursive;
+    color:rgba(0, 116, 68,0.6);
+    font-weight: 900; /*adds boldness*/
+    font-size:40px;
+    margin-left: 40px;
+ }
+ #planner-logo{
+     color:rgb(218, 83, 20);
+ }

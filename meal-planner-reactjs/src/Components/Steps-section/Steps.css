@@ -1,0 +1,39 @@
+.container-para{
+    text-align: center;
+}
+.container-para .heading{
+    font-size: 40px;
+    font-family: 'Itim', cursive;
+    color:rgba(3, 83, 3, 0.8);
+}
+.container-para .para{
+    margin-left: 100px;
+    margin-right: 100px;
+    font-size: 20px;
+}
+.steps {
+    text-align: center;
+    display:inline-block;  /*keeps the block horizontally align*/
+    width:25%;
+    padding-bottom: 30px;
+}
+
+.steps .step-img {
+    height: 180px;
+    width:auto;
+    padding:15px;
+}
+.steps .num{
+    display: inline;
+    background-color: rgb(0, 128, 0, 0.8);
+    padding:8px 12px;   /* padding and border radius gives circular appeance around number*/
+    border-radius: 20px;
+    color:#ffffff;
+}
+.steps .step-text{
+    font-size: 17px;
+    display: inline-block;
+    margin-top: 10px; 
+    color:grey;
+    padding:15px;
+}
